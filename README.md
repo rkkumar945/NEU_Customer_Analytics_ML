@@ -21,4 +21,14 @@ An end-to-end Data Science project focusing on e-commerce customer behavior anal
 * `customer_clusters.png` - Visual representation of the K-Means customer segments.
 * `ecommerce_customer_data.csv` - Raw structured source dataset.
 * `README.md` - Technical project documentation.
-*
+*## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run the Project
+
+```bash
+jupyter notebook Customer_Analytics_Fraud_Detection.ipynb
+```
