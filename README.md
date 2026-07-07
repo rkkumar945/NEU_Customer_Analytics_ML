@@ -32,3 +32,24 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook Customer_Analytics_Fraud_Detection.ipynb
 ```
+## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/rkkumar945/NEU_Customer_Analytics_ML.git
+```
+
+2. Move into the project directory:
+```bash
+cd NEU_Customer_Analytics_ML
+```
+
+3. Install the required libraries:
+```bash
+pip install -r requirements.txt
+```
+
+4. Open the notebook:
+```bash
+jupyter notebook Customer_Analytics_Fraud_Detection.ipynb
+```
